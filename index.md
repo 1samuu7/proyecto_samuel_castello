@@ -17,7 +17,7 @@
 
 ## Enlace a mi web estatica
 
-[Mi web estatica](https://1samuu7.github.io/mi_web_estatica/)
+[Mi web estatica]( https://1samuu7.github.io/mi_web_estatica/)
 
 
 
